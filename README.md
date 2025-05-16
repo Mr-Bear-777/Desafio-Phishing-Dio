@@ -2,7 +2,8 @@
 ---
 #### *Ferramentas*
 - Kali Linux
-- setoolkit
+- Setoolkit
+- Zphisher
 ----
 ### Configurando o Setoolkit no Kali Linux
 - Acesso root: ***sudo su***
@@ -21,8 +22,10 @@
 - Executando a ferramenta : bash zphisher.sh
 ----
 ### Resultados 
+#### Resultado com Setoolkit
 ![Captura de Tela](Screenshot_2025-05-07_15-03-39.png)
 ----
+#### Resultado com Zphisher
 ![Captura de Tela](Screenshot_2025-05-16_15-41-33.png)
 ### Glossário:
 - Phishing: Técnica de engenharia social utilizada para obter dados confidenciais, como senhas e informações bancárias, enganando a vítima com sites falsificados ou mensagens fraudulentas.
