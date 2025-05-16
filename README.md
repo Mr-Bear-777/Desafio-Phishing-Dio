@@ -32,4 +32,4 @@
 
 - Setoolkit: Ferramenta de pentest usada para realizar ataques de phishing e outras técnicas de engenharia social.(Ferranta mais Complexa)
 
-- Zphisher:Zphisher: Ferramenta de código aberto mais simples e automatizada, utilizada em testes de phishing. Ideal para iniciantes, ela permite criar páginas falsas com poucos comandos, facilitando a aplicação de técnicas básicas de engenharia social.
+- Zphisher: Ferramenta de código aberto mais simples e automatizada, utilizada em testes de phishing. Ideal para iniciantes, ela permite criar páginas falsas com poucos comandos, facilitando a aplicação de técnicas básicas de engenharia social.
